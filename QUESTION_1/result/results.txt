@@ -1,0 +1,5 @@
+Results of Data Analysis:
+------------------------------
+Correlation between Weight and Frailty: 0.5352
+Correlation between Height and Frailty: 0.1932
+Correlation between Age and Frailty: -0.0837
